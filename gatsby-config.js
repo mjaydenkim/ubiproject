@@ -1,5 +1,5 @@
 let siteMetadata = {
-    title: `UBI`,
+    title: `Universal Basic Income`,
     capitalizeTitleOnHome: true,
     logo: `/images/logo.png`,
     icon: `/images/icon.png`,

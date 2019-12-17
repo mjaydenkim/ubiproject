@@ -4,7 +4,7 @@ let siteMetadata = {
     logo: `/images/logo.png`,
     icon: `/images/icon.png`,
     titleImage: `/images/wall.jpg`,
-    introTag: `English Position Project for Musich P7`,
+    introTag: `English Position Project for Musich, P7`,
     description: `Is a Universal Basic Income of $1000 per month a good way to solve the problem of job displacement by automation?`,
     author: `@_akzhy`,
     blogItemsPerPage: 10,

@@ -6,10 +6,8 @@ template: portfolio
 image: ./image.jpg
 ---
 
-* It would permanently grow the economy by a great amount and benefit people monetarily. 
-* It would greatly reduce or eliminate people's reliance on the overly complex, broken Social Security system
-* It would help counter the rise of job displacement by automation.
-
----
+1. It would permanently grow the economy by a great amount and benefit people monetarily. 
+2. It would greatly reduce or eliminate people's reliance on the overly complex, broken Social Security system
+3. It would help counter the rise of job displacement by automation.
 
 

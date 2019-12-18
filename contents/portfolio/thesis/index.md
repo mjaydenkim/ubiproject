@@ -1,54 +1,11 @@
 ---
 title: Thesis- Why is UBI a good idea?
-description: Why is a Universal Basic Income a good way to solve the problem of job displacement by automation?
+description: Why is a Universal Basic Income a good proposal to help citizens of the US?
 date: 2019-12-17
 template: portfolio
 image: ./image.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[row]
-[col]
-![image](./b1.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit
-
-[/col]
-[col]
-![image](./b2.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit
-
-[/col]
-[/row]
-
-[row]
-[col]
-![image](./w1.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit
-
-[/col]
-[/row]
-
-[row]
-[col]
-![image](./l1.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit
-
-[/col]
-[col]
-![image](./l2.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit
-
-[/col]
-[col]
-![image](./l3.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit
-
-[/col]
-[/row]
+* It would permanently grow the economy by a great amount and benefit people monetarily. 
+* It would greatly reduce or eliminate people's reliance on the overly complex, broken Social Security system
+* It would help counter the rise of job displacement by automation.

@@ -14,5 +14,3 @@ Automation has been displacing jobs and will continue to displace jobs- accordin
 
 ## What is Andrew Yang's plan?
 Andrew Yang's centerpiece policy is called the "Freedom Dividend". It would put $1000 a month into the hands of every American over the age of 18. Someone's work status or social status will not affect how much money they recieve from the Freedom Dividend. Any changes to the Dividend would require a Constitutional amendment. According to Yang's website, "This would enable all Americans to pay their bills, educate themselves, start businesses, be more creative, stay healthy, relocate for work, spend time with their children, take care of loved ones, and have a real stake in the future." (Yang)
-
-### NEED TO FINISH

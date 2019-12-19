@@ -17,52 +17,30 @@ let siteMetadata = {
             url: "/"
         },
         {
-            name: "ABOUT",
-            url: "/about"
-        },
-        {
-            name: "BLOG",
+            name: "ARGUMENTS",
             url: "/blog"
         },
         {
-            name: "PORTFOLIO",
+            name: "INTRODUCTION & THESIS",
             url: "/portfolio"
         },
-        {
-            name: "CONTACT",
-            url: "/contact"
-        }
     ],
     footerLinks: [
         {
-            name: "PRIVACY POLICY",
-            url: "/privacy-policy"
-        },
-        {
-            name: "GitHub",
+            name: "Theme",
             url: "https://github.com/akzhy/gatsby-starter-elemental"
         }
     ],
     social: [
         {
-            name: "Facebook",
-            icon: "/images/Facebook.svg",
-            url: "#"
-        },
-        {
             name: "Twitter",
             icon: "/images/Twitter.svg",
-            url: "#"
-        },
-        {
-            name: "Instagram",
-            icon: "/images/Instagram.svg",
-            url: "#"
+            url: "https://twitter.com/mjaydenkim"
         },
         {
             name: "Youtube",
             icon: "/images/Youtube.svg",
-            url: "#"
+            url: "https://www.youtube.com/channel/UCi6VkPnL8sh_9wvu7ndDZig"
         }
     ],
     contact: {

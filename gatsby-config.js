@@ -5,7 +5,7 @@ let siteMetadata = {
     icon: `/images/icon.png`,
     titleImage: `/images/wall.jpg`,
     introTag: `English Position Project for Musich, P7`,
-    description: `Is a Universal Basic Income of $1000 per month a good way to solve the problem of job displacement by automation?`,
+    description: `Is a Universal Basic Income of $1000 a month a good proposal to help citizens of the United States?`,
     author: `@_akzhy`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
@@ -68,7 +68,7 @@ let siteMetadata = {
     contact: {
         /* Leave the below value completely empty (no space either) if you don't want a contact form. */
         api_url: "",
-        description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
+        description: `Written by Matthew Kim- an 8th grader who attends Egan Junior High. Really into Rubik's Cubes, US Politics, Coding, Electropop, and rhythm games.`,
         mail: "mjaydenkim@gmail.com",
         phone: "N/A",
         address: "N/A"

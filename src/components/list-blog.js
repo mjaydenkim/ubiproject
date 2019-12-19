@@ -42,7 +42,7 @@ export default function() {
         return (
             <section id="blog" className="container">
                 <div className="section-title">
-                    <SectionTitle title="BLOG" />
+                    <SectionTitle title="ARGUMENTS" />
                 </div>
                 <BlogItems data={query} />
             </section>

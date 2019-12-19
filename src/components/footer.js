@@ -34,7 +34,7 @@ export default function() {
                     <FooterLinks />
                 </div>
                 <p className="text-primary f-d">
-                    Copyright &copy; {query.site.siteMetadata.title}{" "}
+                    Copyright &copy; Matthew Kim{" "}
                     {new Date().getFullYear()}
                 </p>
             </div>

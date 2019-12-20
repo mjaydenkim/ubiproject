@@ -27,8 +27,8 @@ let siteMetadata = {
     ],
     footerLinks: [
         {
-            name: "Theme",
-            url: "https://github.com/akzhy/gatsby-starter-elemental"
+            name: "References",
+            url: "https://docs.google.com/document/d/14pOZOfKi4EWhy0ggjnuTYLZUe8lgQx0vJ20Tw6tJFn8/edit?usp=sharing"
         }
     ],
     social: [

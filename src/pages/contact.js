@@ -8,7 +8,6 @@ export default function() {
         <Layout>
             <SEO lang="en" title="Contact" />
             <div style={{ minHeight: "600px" }}>
-                <Contact />
             </div>
         </Layout>
     );

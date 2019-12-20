@@ -1,0 +1,12 @@
+---
+title: UBI Would Benefit the Economy
+date: 2019-12-19
+template: blog
+image: ./image.jpg
+banner: ./banner.jpg
+description: Why a universal basic income program would help the economy greatly
+---
+
+  According to a study done by the Roosevelt Institute and the Levy Institute, a UBI of $1000 per month to all adults of the United States would permanently grow the economy by over 12% (or $2.5 trillion) after only 8 years. It would also increase the percentage of Americans with jobs by around 2% and expand the labor force by 4.5 to 4.7 million people. (Nikiforos, Steinbaum, & Zezza, 2017). The reason for this large growth is that putting $1,000 per month into the hands of citizens grows the economy. For example, a town of 10,000 adults would bring in $120 million extra income into the community. A lot of this money would be spent locally as people would have more financial security to dine out at restaurants and go to shops in their local areas. Now, imagine this all over the country, with over 209 million adults living in the United States. Local economies would thrive greatly from the newfound buying power of the citizens. A universal basic income would open up more jobs in this way- with more people shopping at businesses and locally more jobs would be required at these businesses. People who currently receive disability benefits would be more incentivized to work- currently, the 8.5 million people in the US who receive disability benefits are heavily disincentivized to work due to the fact that if they start working, they'll lose their benefits, likely for the rest of their lives. Even if they don't need disability checks anymore and are able to work, they don't want to for this reason. With a universal basic income, these people and many others would be more encouraged to join the workforce and this would boost the economy greatly. 
+  
+  A universal basic income would also lead to the creation of new businesses. With the economic security provided by the $1000 per month, people could pursue their passions of opening a restaurant, for example, like 
